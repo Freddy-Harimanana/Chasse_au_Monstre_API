@@ -1,7 +1,7 @@
 		
-		=======================	 =================
-					API REST
-		=======================	 =================
+============
+#API REST
+============
 
 
 # C'est un projet qui consiste a recuperer des information dans Dofus sur [Dofusapi](https://dofapi.fr/) 
